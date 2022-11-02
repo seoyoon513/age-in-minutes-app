@@ -70,4 +70,6 @@ class MainActivity : AppCompatActivity() {
         dpd.datePicker.maxDate = System.currentTimeMillis() - 86400000
         dpd.show()
     }
+
+    //엥 정말로 잘했나요?
 }
